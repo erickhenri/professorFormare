@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'suzanoUnicase';
+    src: url('./fonts/SuzanoUnicase-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: 'Zooja';
+    src: url('./fonts/Zooja W00 Regular.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: 'suzanoDisplay';
+    src: url('./fonts/SuzanoDisplay-Regular.ttf')
+    format('truetype');
+}
